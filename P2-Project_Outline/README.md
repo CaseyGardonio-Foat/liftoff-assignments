@@ -7,12 +7,13 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+See google doc: https://docs.google.com/document/d/19f67_N1D-NPtrNBj1iuEmYM6TGd9guxHLJhM_UNSmRM/edit?usp=sharing
 ### Features
-Include Features here
+See google doc: https://docs.google.com/document/d/19f67_N1D-NPtrNBj1iuEmYM6TGd9guxHLJhM_UNSmRM/edit?usp=sharing
 ### Technologies
-Include Technologies here
+See google doc: https://docs.google.com/document/d/19f67_N1D-NPtrNBj1iuEmYM6TGd9guxHLJhM_UNSmRM/edit?usp=sharing
 ### What I'll Have to Learn
-Include what you will need to learn here
+See google doc: https://docs.google.com/document/d/19f67_N1D-NPtrNBj1iuEmYM6TGd9guxHLJhM_UNSmRM/edit?usp=sharing
 ### Project Tracker
-Link to your Trello board here
+User Stories: https://trello.com/b/dF0FgP3B
+Workflow: https://trello.com/b/FlCbsf59 
