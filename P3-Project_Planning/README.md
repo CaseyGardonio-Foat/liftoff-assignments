@@ -23,4 +23,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Repo Link
 
-https://github.com/Carolista/collector-catalogue 
+https://github.com/Carolista/collection-organizer
